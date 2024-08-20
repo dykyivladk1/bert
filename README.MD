@@ -11,10 +11,10 @@ This repository contains a simplified implementation of the original BERT model,
 
 ## Table of Contents
 
-- [Introduction][#introduction]
-- [Features][#features]
-- [Requirements][#requirements]
-- [Installation][#installation]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Training](#training)
 - [Testing](#testing)
