@@ -1,7 +1,7 @@
 # BERT
 
 
-<img src="assets/bert.png" style="width: 100%; height: 50px;" alt="Banner Image">
+<img src="assets/bert.png" style="width: 100%; height: 200px;" alt="Banner Image">
 
 
 #### BERT (Bidirectional Encoder Representations from Transformers) 
